@@ -1,0 +1,5 @@
+#Prevent GoogleBot from scanning. (this is a comment. You can write what you want)
+
+User-agent: *
+Disallow: 
+sitemap: https://adrianajisepta.vercel.app/sitemap.xml
