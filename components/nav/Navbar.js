@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <header className="pt-6 sticky top-0 z-10 transition-all duration-500">
       <nav
-        className="w-full px-6 py-4 rounded-full bg-transparent transition-all duration-300 flex flex-col gap-4 lg:flex-row lg:justify-between lg:items-center dark:bg-transparent backdrop-blur-md bg-opacity-25"
+        className="w-full px-6 py-4 rounded-full max-sm:rounded-lg bg-transparent transition-all duration-300 flex flex-col gap-4 lg:flex-row lg:justify-between lg:items-center dark:bg-transparent backdrop-blur-md bg-opacity-25"
         itemScope
         itemType="https://schema.org/SiteNavigationElement"
       >
