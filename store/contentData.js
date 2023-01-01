@@ -74,7 +74,7 @@ const contentData = {
           originalWidth: 1920,
           originalHeight: 1050,
         },
-        techs: ["HTML", "SCSS", "Vanilla JS", "Local Storage"],
+        techs: ["HTML", "CSS", "Vanilla JS", "Local Storage"],
         category: ["Freelance Project"],
         demoUrl: "https://rianmz-genz.github.io/artoku",
       },

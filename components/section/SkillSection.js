@@ -9,6 +9,8 @@ import ReactJS from "../skill/ReactJS";
 import NextJS from "../skill/NextJS";
 import TailwindCSS from "../skill/TailwindCSS";
 import SASS from "../skill/SASS";
+import TS from "../skill/TS";
+
 
 const SkillSection = () => {
   return (
@@ -26,7 +28,7 @@ const SkillSection = () => {
         <HTML className="h-24" />
         <CSS className="h-24 w-24" />
         <JS className="h-24" />
-        <SASS className="h-24" />
+        <TS className="h-24 w-24" />
         <TailwindCSS className="h-24 w-24" />
         <ReactJS className="h-24" />
         <NextJS className="h-24" />
