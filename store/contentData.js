@@ -51,6 +51,20 @@ const contentData = {
         repoUrl: "https://github.com/rianmz-genz/Soestyle",
       },
       {
+        title: "Typetasks",
+        description:
+          "Todolist app draggable task to completed tasks.",
+        preview: {
+          url: "/images/projects/type.png",
+          lowresUrl: "/images/projects/type.png",
+          originalWidth: 873,
+          originalHeight: 1172,
+        },
+        techs: ["ReactJs", "TailwindCSS", "Typescript"],
+        demoUrl: "https://typetasks.vercel.app/",
+        repoUrl: "https://github.com/rianmz-genz/todolistTsx",
+      },
+      {
         title: "Artoku",
         description:
           "A website who can manage your money for buy your wishlist. ",
