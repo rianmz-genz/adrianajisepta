@@ -30,6 +30,7 @@ export default function Home() {
           property="og:description"
           content={`My name is Adrian Aji Septa. I am a fresh graduate from SMK N 1 Purwokerto majoring in Software Engineering and is currently studying at Amikom Purwokerto University. I love programming especially in Frontend Dev.`}
         />
+        <meta name="google-site-verification" content="fMEql0p_U-xUj-bdslwAUxrJN7YVAak5yRExytckLLg" />
         <meta property="og:url" content="https://adrianajisepta.my.id" />
         <meta
           property="og:image"
