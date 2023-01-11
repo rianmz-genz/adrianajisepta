@@ -2,4 +2,4 @@
 
 User-agent: *
 Disallow: 
-sitemap: https://adrianajisepta.vercel.app/sitemap.xml
+sitemap: https://www.adrianajisepta.my.id/sitemap.xml
