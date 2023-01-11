@@ -79,9 +79,9 @@ const contentData = {
         demoUrl: "https://rianmz-genz.github.io/artoku",
       },
       {
-        title: "Password Validation",
+        title: "Epictetus News",
         description:
-          "Simple password validation Its also can secure your password",
+          "Slicing design about news article.",
         preview: {
           url: "/images/projects/epictetus.png",
           lowresUrl: "/images/projects/epictetus.png",
