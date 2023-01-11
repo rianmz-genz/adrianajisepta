@@ -83,15 +83,15 @@ const contentData = {
         description:
           "Simple password validation Its also can secure your password",
         preview: {
-          url: "/images/projects/password.png",
-          lowresUrl: "/images/projects/password.png",
+          url: "/images/projects/epictetus.png",
+          lowresUrl: "/images/projects/epictetus.png",
           originalWidth: 1175,
           originalHeight: 660,
         },
-        techs: ["HTML", "CSS", "Vanilla JS"],
-        category: ["Dicoding Submission"],
-        demoUrl: "https://rianmz-genz.github.io/passvalid",
-        repoUrl: "https://github.com/rianmz-genz/passvalid",
+        techs: ["NextJs", "TailwindCSS"],
+        category: ["UI Design Implementation"],
+        demoUrl: "https://rianmz-genz.github.io/epictetus",
+        repoUrl: "https://epictetusnews.vercel.app",
       },
 
       {
