@@ -22,6 +22,78 @@ const contentData = {
     title: "What I have made?",
     projects: [
       {
+        title: "Chat N' Rechat",
+        description: "Simple Companies that provide about fake Chat App develop by me.",
+        preview: {
+          url: "/images/projects/chatnrechat.png",
+          lowresUrl: "/images/projects/chatnrechat.png",
+          originalWidth: 1920,
+          originalHeight: 1080,
+        },
+        techs: ["NextJs", "TailwindCSS", "Typescript"],
+        category: ["Competition Project"],
+        demoUrl: "https://chatnrechat.vercel.app/",
+        repoUrl: "https://github.com/rianmz-genz/chatnrechat",
+      },
+            {
+        title: "Epictetus News",
+        description:
+          "News website with modern design develop by me.",
+        preview: {
+          url: "/images/projects/epictetus.png",
+          lowresUrl: "/images/projects/epictetus.png",
+          originalWidth: 1175,
+          originalHeight: 660,
+        },
+        techs: ["NextJs", "TailwindCSS", "Typescript"],
+        category: ["UI Design Implementation"],
+        demoUrl: "https://epictetusnews.vercel.app",
+        repoUrl: "https://github.com/rianmz-genz/epictetus",
+      },
+            {
+        title: "LKP MANDIRI",
+        description: "Simple Companies that provide course services develop by me.",
+        preview: {
+          url: "/images/projects/lkpmandiri.png",
+          lowresUrl: "/images/projects/lkpmandiri.png",
+          originalWidth: 1920,
+          originalHeight: 1080,
+        },
+        techs: ["NextJs", "TailwindCSS", "Typescript"],
+        category: ["Competition Project"],
+        demoUrl: "https://lkpmandiri.vercel.app/",
+        repoUrl: "https://github.com/rianmz-genz/lkpmandiri",
+      },
+      {
+        title: "Collosal",
+        description: "Simple Companies that provide about technology develop by me.",
+        preview: {
+          url: "/images/projects/collosal.png",
+          lowresUrl: "/images/projects/collosal.png",
+          originalWidth: 1920,
+          originalHeight: 1080,
+        },
+        techs: ["NextJs", "TailwindCSS", "Typescript"],
+        category: ["Competition Project"],
+        demoUrl: "https://thecollosal.vercel.app/",
+        repoUrl: "https://github.com/rianmz-genz/collosal",
+      },
+       {
+        title: "Soemovies",
+        description:
+          "Website for search and get information of many movie source by TheMoveDb API.",
+        preview: {
+          url: "/images/projects/soemoviesupdate.png",
+          lowresUrl: "/images/projects/soemoviesupdate.png",
+          originalWidth: 1224,
+          originalHeight: 764,
+        },
+        techs: ["ReactJS", "Tailwind CSS"],
+        category: ["Dicoding Submission", "UI Design Implementation"],
+        demoUrl: "https://soemovies.vercel.app",
+        repoUrl: "https://github.com/rianmz-genz/soemovies",
+      },
+      {
         title: "SoeFinder",
         description:
           "Website for search and download image source by Pixabay API.",
@@ -79,22 +151,6 @@ const contentData = {
         demoUrl: "https://rianmz-genz.github.io/artoku",
       },
       {
-        title: "Epictetus News",
-        description:
-          "News website with modern design develop by me.",
-        preview: {
-          url: "/images/projects/epictetus.png",
-          lowresUrl: "/images/projects/epictetus.png",
-          originalWidth: 1175,
-          originalHeight: 660,
-        },
-        techs: ["NextJs", "TailwindCSS", "Typescript"],
-        category: ["UI Design Implementation"],
-        demoUrl: "https://epictetusnews.vercel.app",
-        repoUrl: "https://github.com/rianmz-genz/epictetus",
-      },
-
-      {
         title: "Ampu Kreatif Studio",
         description:
           "A company profile for a company Creative Media, Software Development, IT Consultant, and Training.",
@@ -107,21 +163,6 @@ const contentData = {
         techs: ["ReactJs", "Tailwind CSS"],
         category: ["Freelance Project"],
         demoUrl: "https://ampukreatifstudio.com/",
-      },
-      {
-        title: "Soemovies",
-        description:
-          "Website for search and get information of many movie source by TheMoveDb API.",
-        preview: {
-          url: "/images/projects/soemovies.png",
-          lowresUrl: "/images/projects/soemovies.png",
-          originalWidth: 1224,
-          originalHeight: 764,
-        },
-        techs: ["ReactJS", "Tailwind CSS"],
-        category: ["Dicoding Submission", "UI Design Implementation"],
-        demoUrl: "https://soemovies.netlify.app",
-        repoUrl: "https://github.com/rianmz-genz/soemovies",
       },
       {
         title: "Todolist",
@@ -137,34 +178,7 @@ const contentData = {
         demoUrl: "https://rianmz-genz.github.io/ReactTodo",
         repoUrl: "https://github.com/rianmz-genz/ReactTodo",
       },
-      {
-        title: "Chat N' Rechat",
-        description: "Simple Company Profile about fake Chat App develop by me.",
-        preview: {
-          url: "/images/projects/chatnrechat.png",
-          lowresUrl: "/images/projects/chatnrechat.png",
-          originalWidth: 1920,
-          originalHeight: 1080,
-        },
-        techs: ["NextJs", "TailwindCSS", "Typescript"],
-        category: ["Competition Project"],
-        demoUrl: "https://chatnrechat.vercel.app/",
-        repoUrl: "https://github.com/rianmz-genz/chatnrechat",
-      },
-      {
-        title: "Collosal",
-        description: "Simple Company Profile slicing about technology develop by me.",
-        preview: {
-          url: "/images/projects/collosal.png",
-          lowresUrl: "/images/projects/collosal.png",
-          originalWidth: 1920,
-          originalHeight: 1080,
-        },
-        techs: ["NextJs", "TailwindCSS", "Typescript"],
-        category: ["Competition Project"],
-        demoUrl: "https://thecollosal.vercel.app/",
-        repoUrl: "https://github.com/rianmz-genz/collosal",
-      },
+      
     ],
   },
   contactSection: {
