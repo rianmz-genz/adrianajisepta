@@ -81,7 +81,7 @@ const contentData = {
       {
         title: "Epictetus News",
         description:
-          "Slicing design about news article.",
+          "News website with modern design develop by me.",
         preview: {
           url: "/images/projects/epictetus.png",
           lowresUrl: "/images/projects/epictetus.png",
@@ -90,8 +90,8 @@ const contentData = {
         },
         techs: ["NextJs", "TailwindCSS", "Typescript"],
         category: ["UI Design Implementation"],
-        demoUrl: "https://rianmz-genz.github.io/epictetus",
-        repoUrl: "https://epictetusnews.vercel.app",
+        demoUrl: "https://epictetusnews.vercel.app",
+        repoUrl: "https://github.com/rianmz-genz/epictetus",
       },
 
       {
@@ -139,7 +139,7 @@ const contentData = {
       },
       {
         title: "Chat N' Rechat",
-        description: "Company Profile fake Chat App slicing design by me.",
+        description: "Simple Company Profile about fake Chat App develop by me.",
         preview: {
           url: "/images/projects/chatnrechat.png",
           lowresUrl: "/images/projects/chatnrechat.png",
@@ -153,7 +153,7 @@ const contentData = {
       },
       {
         title: "Collosal",
-        description: "Company Profile slicing design by me.",
+        description: "Simple Company Profile slicing about technology develop by me.",
         preview: {
           url: "/images/projects/collosal.png",
           lowresUrl: "/images/projects/collosal.png",
