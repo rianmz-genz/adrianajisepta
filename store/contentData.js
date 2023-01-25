@@ -78,6 +78,20 @@ const contentData = {
         demoUrl: "https://thecollosal.vercel.app/",
         repoUrl: "https://github.com/rianmz-genz/collosal",
       },
+            {
+        title: "The Zeitplan",
+        description: "Simple Companies that provide about planning app develop by me.",
+        preview: {
+          url: "/images/projects/zeitplan.png",
+          lowresUrl: "/images/projects/zeitplan.png",
+          originalWidth: 1920,
+          originalHeight: 1080,
+        },
+        techs: ["NextJs", "TailwindCSS", "Typescript"],
+        category: ["Competition Project"],
+        demoUrl: "https://thezeitplan.vercel.app/",
+        repoUrl: "https://github.com/rianmz-genz/thezeitplan",
+      },
        {
         title: "Soemovies",
         description:
