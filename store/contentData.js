@@ -92,6 +92,20 @@ const contentData = {
         demoUrl: "https://thezeitplan.vercel.app/",
         repoUrl: "https://github.com/rianmz-genz/thezeitplan",
       },
+                  {
+        title: "Topenida",
+        description: "Simple Travel tour website with modern design",
+        preview: {
+          url: "/images/projects/topenida.png",
+          lowresUrl: "/images/projects/topenida.png",
+          originalWidth: 1920,
+          originalHeight: 1080,
+        },
+        techs: ["NextJs", "TailwindCSS", "Typescript"],
+        category: ["Competition Project"],
+        demoUrl: "https://topenida.vercel.app/",
+        repoUrl: "https://github.com/rianmz-genz/topenida",
+      },
        {
         title: "Soemovies",
         description:
