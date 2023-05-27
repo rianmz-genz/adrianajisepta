@@ -199,7 +199,7 @@ const Epeppoint = () => {
                 </button>
                 <p>|</p>
                 <p>Keterangan:</p>
-                <span className='bg-green-200 w-16 h-8 flex justify-center items-center text-gray-400'>Rank</span>
+                <span className='bg-green-200 w-16 h-8 flex justify-center items-center text-gray-400'>Placement</span>
                 <span className='bg-blue-200 w-16 h-8 flex justify-center items-center text-gray-400'>Kill</span>
             </div>
             <table className='overflow-x-scroll'>
