@@ -195,11 +195,11 @@ const Epeppoint = () => {
                     <BiRefresh  className='text-3xl'/>
                 </button>
                 <button onClick={sortPointsByTotal} className=' flex bg-[#f3f4f6] items-center px-3 py-1 rounded'>
-                    Generate Rank
+                    Generate Champion
                 </button>
                 <p>|</p>
                 <p>Keterangan:</p>
-                <span className='bg-green-200 w-16 h-8 flex justify-center items-center text-gray-400'>Placement</span>
+                <span className='bg-green-200 px-4 h-8 flex justify-center items-center text-gray-400'>Placement</span>
                 <span className='bg-blue-200 w-16 h-8 flex justify-center items-center text-gray-400'>Kill</span>
             </div>
             <table className='overflow-x-scroll'>
@@ -230,7 +230,7 @@ const Epeppoint = () => {
                         <td className='border-r text-gray-400 border-t border-b w-24'>
                             <p className='text-center'>{point.total}</p>
                         </td>
-                        <td className={`${isGenerate ? "opacity-100 visible" : "invisible opacity-0"} ${ir + 1 == 1 || ir + 1 == 2 || ir + 1 == 3 && isGenerate == true ? "bg-yellow-100 text-white" : ""} transition-all duration-300 text-gray-400 border-t border-b w-24`}>
+                        <td className={`${isGenerate ? "opacity-100 visible" : "invisible opacity-0"} ${ir + 1 == 1 || ir + 1 == 2 || ir + 1 == 3 && isGenerate == true ? "bg-yellow-100 " : ""} transition-all duration-300 text-gray-400 border-t border-b w-24`}>
                             <p className='text-center'>{ir + 1}</p>
                         </td>
                     </tr>
